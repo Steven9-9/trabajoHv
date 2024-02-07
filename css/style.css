@@ -1,0 +1,259 @@
+*{
+
+    margin: 0;
+    padding: 0;
+
+}
+
+.fondo{
+
+width: 60%;
+height: 100vh;
+display: flex;
+margin: auto;
+justify-content: space-between;
+
+}
+
+
+.fondo img{
+     
+    width: 27%;
+    height: 276px;
+    position: absolute;
+   justify-content: space-around;
+}
+
+
+
+.barra{
+    width: 15%;
+    height: 116vh;
+    background-color: rgb(105, 157, 182);
+    position: sticky;
+    margin-top: 276px;
+}
+
+.perfil{
+    
+    width: 53%;
+    height: 300px;
+    margin-top: 45px;
+    font-size: xx-large;
+
+
+}
+
+.perfil .contacto{
+
+    width: 32%;
+    height: 92px;
+    
+   position: absolute;
+
+}
+
+.contacto img{
+
+    width: 8%;
+    height: 24px;
+    display: flex;
+    position: relative;
+    margin-top: 20px;
+}
+
+.contacto h5{
+
+    font-size: 20px;
+    margin-left: 50px;
+    margin-top: -25px;
+
+}
+
+.contacto img
+{
+    width: 8%;
+    height: 29px;
+
+}
+
+.contacto .correo{
+
+    font-size: 20px;
+    margin-top: -28px;
+    font-weight: bold;
+    font-style: unset;
+    margin-left: 50px;
+
+}
+
+
+
+
+
+.experiencia{
+    width: 24%;
+    height: 50px;
+    background-color: rgb(105, 157, 182);
+    position: absolute;
+    margin-top: 400px;
+    margin-left: 440px;
+    border-radius: 50px;
+    font-weight: bold;
+
+}
+
+.perfil h3{
+
+font-size: x-large;
+margin-top: 25px;
+
+}
+
+.perfil h6{
+
+margin-top: 20px;
+font-size: small;
+
+}
+
+.experiencia h3{
+    text-align: center;
+    margin: 14px;
+}
+
+
+.laboral{
+
+    width: 35%;
+    height: 500px;
+    position: absolute;
+    margin-top: 515px;
+    margin-left: 320px;
+    text-align: center;
+
+}
+
+.laboral h2{
+    font-weight: bold;
+    font-size: 26px;
+    text-align: left;
+    margin-left: 55px;
+}
+
+
+.laboral h4{
+
+    font-size: 18px;
+    margin-left: 54px;
+    margin-top: 10px;
+    text-align: justify;
+
+}
+
+.laboral p{
+   
+    text-align: left;
+    margin-top: 10px;
+}
+
+.laboral li{
+   
+    text-align: -webkit-auto;
+    margin-left: 50px;
+}
+
+.lab2{
+   
+    margin-top: 45px;
+}
+
+.lab3{
+   
+    margin-top: 45px;
+}
+
+.informacion{
+   
+    width: 27%;
+    height: 600px;
+    position: absolute;
+    margin-top: 400px;
+     align-items: center;
+}
+
+.educacion{
+
+    text-align: center;
+    font: message-box;
+    margin-top: 15px;
+     margin-right: 150px;
+}
+
+.borde{
+
+    border-bottom: solid;
+    margin-top: 15px;
+}
+    
+.informacion h1{
+
+    font-style: revert;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-left: 60px;
+}
+
+.informacion h3{
+    margin-left: 60px;
+    font-size: large;
+}
+
+.curso{
+
+    text-align: center;
+    font: message-box;
+    margin-top: 40px;
+    margin-right: 100px;
+}
+
+
+
+.decoracion {
+
+    width: 100%;
+    height: 200px;
+    background-color: aqua;
+}
+
+.decoracion li{
+
+    margin: 8px;
+
+}
+
+.adorno{
+
+    display: flex;
+    margin-top: 130px;
+    margin-left: 16px;
+
+}
+
+.adorno li{
+
+    font-size: 10px;
+}
+
+
+.adorno1{
+
+    display: flex;
+    margin-left: 16px;
+    margin-top: 15px;
+}
+
+.adorno1 li{
+
+    font-size: 10px;
+}
